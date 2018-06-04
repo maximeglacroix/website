@@ -19,7 +19,7 @@ Le 21 mai dernier dernier a eu lieu la première ascension de la saison, soit le
 
 
 
-![Vu du haut du premier belvédère](C:/Users/Maxime Lacroix/Documents/Site-Web/website/static/img/Loups1.jpg)
+![Vu du haut du premier belvédère](img/Loups1.jpg)
 
 Cela étant dit, dans mon cas du moins, ça a été une découverte intéressante. Comme vous pouvez le voir sur la panoramique, on a l'occasion de voir la superbe vallée du parc National de la Jacques-Cartier.
 
