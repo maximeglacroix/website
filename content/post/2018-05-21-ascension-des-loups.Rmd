@@ -17,7 +17,7 @@ Le 21 mai dernier dernier a eu lieu la première ascension de la saison, soit le
 
 Ça a été une montée rapide d'environ une heure, sans trop de difficulté. Malgré qu'on ne pouvait pas accéder au deuxième belvédère, on a eu l'occasion d'aller voir les points de vue du premier, qui nous passe sous le nez si souvent en temps normal. Les habitués de la montée savent bien que l'objectif ultime est de se rendre au deuxième sommet, et donc faire le détour par le premier n'est pas nécessairement souhaité. 
 
-```{r}
+```{r echo=FALSE}
 knitr::include_graphics(rep('/img/Loups1.jpg'))
 ```
 
