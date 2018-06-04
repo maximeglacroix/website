@@ -9,7 +9,7 @@ weight = 5
 
 # List your academic interests.
 [interets]
-  interests = [
+  interets = [
     "Statistique",
     "Processus aléatoires",
     "Hiking",
