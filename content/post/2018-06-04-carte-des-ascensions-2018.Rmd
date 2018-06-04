@@ -37,11 +37,10 @@ Leaflet semble ne pas fonctionner parfaitement avec Firefox ou Chrome. Sur Edge,
    data_affiche$latlong <- paste(data_affiche$lat,data_affiche$long,sep=":")
     
 
-  data_affiche[,c(1,2,3,6,7)] %>% 
-  datatable()
+  
 
-  #leaflet(data = data_affiche) %>% addTiles() %>%
-   #addMarkers(~long, ~lat, popup = ~affichage)
+  leaflet(data = data_affiche) %>% addTiles() %>%
+  addMarkers(~long, ~lat, popup = ~affichage)
   
   
   
