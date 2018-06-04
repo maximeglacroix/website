@@ -229,7 +229,7 @@ enableGitInfo = false
   align_right = true
 
 [[menu.main]]
-  name = "Accueil"
+  name = "Home"
   url = "#about"
   weight = 1
 
@@ -244,7 +244,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projets"
+  name = "Projects"
   url = "#projects"
   weight = 4
 
