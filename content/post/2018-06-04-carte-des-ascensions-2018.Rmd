@@ -38,7 +38,7 @@ Leaflet semble ne pas fonctionner parfaitement avec Firefox ou Chrome. Sur Edge,
   leaflet(data = data_affiche) %>% addTiles() %>%
    addMarkers(~long, ~lat, popup = ~affichage)
   
-  DT::datatable(data_affiche[,c(1,2,3,6,7)])
+  data_affiche[,c(1,2,3,6,7)]
   
    
    
