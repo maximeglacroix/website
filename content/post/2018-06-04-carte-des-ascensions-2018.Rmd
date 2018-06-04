@@ -17,6 +17,9 @@ Leaflet semble ne pas fonctionner parfaitement avec Firefox ou Chrome. Sur Edge,
   library(readr)
   library(leaflet)
   library(magrittr)
+  library(htmlwidgets)
+  library(htmltools)
+
 
   
   data_affiche <- read.csv("Montees2018.csv")
@@ -35,11 +38,10 @@ Leaflet semble ne pas fonctionner parfaitement avec Firefox ou Chrome. Sur Edge,
 
 
 
-  leaflet(data = data_affiche) %>% addTiles() %>%
+  leafMap <- leaflet(data = data_affiche) %>% addTiles() %>%
    addMarkers(~long, ~lat, popup = ~affichage)
   
-  data_affiche[,c(1,2,3,6,7)]
-  
+  leafMap
    
    
 ```
