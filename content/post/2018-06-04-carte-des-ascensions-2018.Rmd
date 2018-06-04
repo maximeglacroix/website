@@ -1,14 +1,13 @@
 ---
 title: Carte des Ascensions 2018
 author: Maxime Lacroix
-date: '2019-01-01'
+date: '2018-06-04'
 slug: carte-des-ascensions-2018
 categories:
   - Montées
 tags: []
 header:
   caption: ''
-  image: ''
 ---
 
 Cette page permet d'afficher les différentes montées qui ont été effectuées par Alexandre Angers et Maxime Lacroix, en utilisant l'application Leaflet. 
