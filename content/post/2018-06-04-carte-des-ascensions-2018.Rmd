@@ -13,12 +13,13 @@ header:
 Cette page permet d'afficher les différentes montées qui ont été effectuées par Alexandre Angers et Maxime Lacroix, en utilisant l'application Leaflet. 
 Leaflet semble ne pas fonctionner parfaitement avec Firefox ou Chrome. Sur Edge, ça fonctionne un peu mieux. En cliquant sur chacun des points sur la carte, vous pouvez trouver de l'information sur chacune des montees.  
 
-```{r, echo=FALSE,warning=FALSE, results='asis'}
+```{r, echo=FALSE,warning=FALSE}
   library(readr)
   library(leaflet)
   library(magrittr)
   library(htmlwidgets)
   library(htmltools)
+  library(DT)
 
 
   
@@ -36,12 +37,17 @@ Leaflet semble ne pas fonctionner parfaitement avec Firefox ou Chrome. Sur Edge,
    data_affiche$latlong <- paste(data_affiche$lat,data_affiche$long,sep=":")
     
 
+  data_affiche[,c(1,2,3,6,7)] %>% 
+  datatable()
 
-
-  leafMap <- leaflet(data = data_affiche) %>% addTiles() %>%
-   addMarkers(~long, ~lat, popup = ~affichage)
+  #leaflet(data = data_affiche) %>% addTiles() %>%
+   #addMarkers(~long, ~lat, popup = ~affichage)
   
-  leafMap
+  
+  
    
    
 ```
+
+
+
