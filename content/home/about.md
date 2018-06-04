@@ -8,11 +8,12 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
+[interets]
   interests = [
     "Statistique",
     "Processus aléatoires",
-    "hiking"
+    "Hiking",
+    "Analyse statistique des sports"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,6 +25,6 @@ weight = 5
 
 +++
 
-# Biography
+# Biographie
 
-Maxime Lacroix est un étudiant.
+Maxime Lacroix est un étudiant en statistique de l'Université Laval.
