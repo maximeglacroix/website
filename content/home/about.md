@@ -12,8 +12,7 @@ weight = 5
   interests = [
     "Statistique",
     "Processus aléatoires",
-    "Hiking",
-    "Analyse statistique des sports"
+    "Hiking"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,4 +26,4 @@ weight = 5
 
 # Biographie
 
-Maxime Lacroix est un étudiant en statistique de l'Université Laval.
+Maxime Lacroix est un étudiant en statistique de l'Université Laval qui a obtenu son baccalauréat en statistique en mai 2018. Il débutera sa maitrise en statistique à l'automne 2018. Il est passionné par l'analyse des données, notamment concernant la compréhension approfondie des données de sondage de satisfaction. L'objectif de ce site web est de faire une brève présentation de ses divers intérêts, ainsi que de documenter les ascencions effectuées depuis le début 2018, une autre de ses passions. 
