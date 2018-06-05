@@ -36,7 +36,7 @@ selected = false
 projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/1ZVyu6ZKurFWJENSqx8tlg40-N5cJ4u9b/view?usp=sharing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
