@@ -1,0 +1,13 @@
+---
+title: Congrès Canadien des Étudiants en Statistique, une réussite!
+author: Maxime Lacroix
+date: '2018-06-05'
+slug: congrès-canadien-des-étudiants-en-statistique-une-réussite
+categories:
+  - Statistiques
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+

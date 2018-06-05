@@ -1,0 +1,13 @@
+---
+title: Ascension du Mont Wright
+author: Maxime Lacroix
+date: '2018-06-03'
+slug: ascension-du-mont-wright
+categories:
+  - Montées
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
